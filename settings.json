@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "trinitycomp_class26.aternos.me:37245",
+    "ip": "trinitycomp_class26.aternos.me",
     "port": 37245,
     "version": "",
     "try-creative": false
